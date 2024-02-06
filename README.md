@@ -1,2 +1,3 @@
 # ICS-2023
-Homework for the 2023 Introduction to Computer Systems course at Tsinghua University
+
+本仓库为清华大学2023秋《计算机系统概论》课程的全部实验。三次实验得分分别为100，100，98。
